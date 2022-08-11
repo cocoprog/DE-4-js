@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+.cuerpo {
+    margin: 1rem;
+    padding: 1rem;  
+    background-color: #F6E3CA;
+}
+
+.caja1{
+    display: flex;
+    justify-content: center;
+}
+
+.caja2{
+    text-align: center;
+}
+
+.imgMarca {
+    max-width: 250px;
+}
+

@@ -1,0 +1,7 @@
+[
+    { "nombre": "Bota", "precio": 9500, "id": 1 },
+    { "nombre": "Botineta", "precio": 12000, "id": 2 },
+    { "nombre": "Mocasin", "precio": 7500, "id": 3 },
+    { "nombre": "Oxford", "precio": 14300, "id": 4 },
+    { "nombre": "Zapatilla", "precio": 19900, "id": 5 }
+  ]
